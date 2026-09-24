@@ -112,9 +112,17 @@ a bug here has real power. Worth a careful read before you schedule them.
 
 ---
 
+## Related labs
+
+- [helpdesk-graph-toolkit](https://github.com/SudoShad/helpdesk-graph-toolkit) — PowerShell + Microsoft Graph helpdesk automation
+- [endpoint-hardening-baseline](https://github.com/SudoShad/endpoint-hardening-baseline) — CIS-inspired Intune / policy-as-code Windows hardening
+- [linux-homelab](https://github.com/SudoShad/linux-homelab) — Proxmox + AD/GPO + WireGuard lab notes
+
+---
+
 ## Connect
 
 - Portfolio: [shadman.io](https://shadman.io)
 - LinkedIn: [linkedin.com/in/shadman-bari](https://linkedin.com/in/shadman-bari)
 - Email: shadman@shadman.io
-- Related lab notes: [linux-homelab](https://github.com/SudoShad/linux-homelab)
+- Related labs: [linux-homelab](https://github.com/SudoShad/linux-homelab) · [helpdesk-graph-toolkit](https://github.com/SudoShad/helpdesk-graph-toolkit) · [endpoint-hardening-baseline](https://github.com/SudoShad/endpoint-hardening-baseline)
