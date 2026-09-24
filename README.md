@@ -1,4 +1,4 @@
-# ops-toolkit
+# linux-ops-toolkit
 
 A small, dependency-light operations toolkit for Linux servers, written in
 portable POSIX `sh`. Three scripts share one config file and install with a
@@ -109,3 +109,12 @@ that kind of trending and graphing.
 **Everything runs as root.** These scripts need root to read protected logs and
 change firewall rules, which is normal for this kind of work, but it also means
 a bug here has real power. Worth a careful read before you schedule them.
+
+---
+
+## Connect
+
+- Portfolio: [shadman.io](https://shadman.io)
+- LinkedIn: [linkedin.com/in/shadman-bari](https://linkedin.com/in/shadman-bari)
+- Email: shadman@shadman.io
+- Related lab notes: [linux-homelab](https://github.com/SudoShad/linux-homelab)
